@@ -1,0 +1,1 @@
+# git-mon-depot-distant-2
